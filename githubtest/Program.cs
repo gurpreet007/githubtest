@@ -9,7 +9,7 @@ namespace githubtest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ad3");
+            Console.WriteLine("add3");
         }
     }
 }
